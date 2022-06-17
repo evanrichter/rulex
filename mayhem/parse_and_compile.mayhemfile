@@ -1,0 +1,5 @@
+project: rulex
+target: parse_and_compile
+
+cmds:
+  - cmd: /parse_and_compile
