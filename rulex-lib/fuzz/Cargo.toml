@@ -23,3 +23,6 @@ name = "parse_and_compile"
 path = "fuzz_targets/parse_and_compile.rs"
 test = false
 doc = false
+
+[profile.release]
+debug = true
